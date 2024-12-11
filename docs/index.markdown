@@ -18,9 +18,9 @@ YAME (Yet Another MEthylation tool) is a methylation toolset designed for sequen
 
 ## Reference
 
-David Goldberg, Hongxiang Fu, *et al.*,
+David Goldberg*, Hongxiang Fu*, *et al.*,
 KnowYourCG: supervised learning of sparse DNA methylomes,
-*Manuscript in submission*
+*Manuscript in submission to Nature Methods*
 
 ## Installation Guide
 The source can be retrieved by:
